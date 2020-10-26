@@ -1,16 +1,16 @@
-#Appointment Scheduler App
+# Appointment Scheduler App
 
 This Appointment Scheduler lets users select a day and a one-hour time slot between 9AM and 5PM to meet with us. 
 
-##Specifications
+## Specifications
 
 > Application which shows a list of hour long slots from 9am to 5pm using React.
 
 > When one time slot is clicked, details screen (another page/screen) is loaded which asks for first name, last name and phone number. Screen has 2 options - Cancel and Save. 
 
->When the name and phone number is submitted, the time slot selected changes to red, indicating the time slot is no longer available.
+> When the name and phone number is submitted, the time slot selected changes to red, indicating the time slot is no longer available.
 
->When the name and phone number is submitted/saved, the app redirectes back to the main screen and selected timeslot should change to red, indicating the time slot is no longer available.
+> When the name and phone number is submitted/saved, the app redirectes back to the main screen and selected timeslot should change to red, indicating the time slot is no longer available.
 
 > If the red time slot is clicked on again, it redirects again to the details screen with the name and phone number for that appointment pre-populated. Users will be able to edit the name and phone number to change the user for the appointment.  
 
