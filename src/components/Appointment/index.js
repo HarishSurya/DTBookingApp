@@ -65,7 +65,7 @@ const Appointment = ({ appointments }) => {
   return (
     <>
       <div className="hero-container">
-        <video src="../../digi.mp4" autoPlay loop muted />
+        <video className="videos" src="../../digi.mp4" autoPlay loop muted />
         <h1>DIGITRON BOOKING APP</h1>
       </div>
       <div className="AppointmentWrapper">
