@@ -4,7 +4,7 @@ This Appointment Scheduler lets users select a day and a one-hour time slot betw
 
 ## Specifications
 
-> Application which shows a list of hour long slots from 9am to 5pm using React.
+> Application shows a list of hour long slots from 9am to 5pm using React.
 
 > When one time slot is clicked, details screen (another page/screen) is loaded which asks for first name, last name and phone number. Screen has 2 options - Cancel and Save. 
 
