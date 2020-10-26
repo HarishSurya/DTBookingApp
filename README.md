@@ -18,7 +18,7 @@ This Appointment Scheduler lets users select a day and a one-hour time slot betw
 
 This app is live on https://digitaltrons.netlify.app/#/26/10/2020/
 
-### This application is built using React, Redux and React Bootstrap. 
+## This application is built using React, Redux and React Bootstrap. 
 
 # Getting Started with Create React App
 
