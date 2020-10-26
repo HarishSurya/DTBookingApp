@@ -65,7 +65,7 @@ const Appointment = ({ appointments }) => {
   return (
     <>
       <div className="hero-container">
-        <h2>DIGITRON BOOKING APP</h1>
+        <h2>DIGITRON BOOKING APP</h2>
       </div>
       <div className="AppointmentWrapper">
         <div className="navWrapper">
